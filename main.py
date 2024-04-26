@@ -13,7 +13,7 @@ new_label.pack()
 
 
 
-# button:
+
 
 def but_click():
     print("i got clicked")
